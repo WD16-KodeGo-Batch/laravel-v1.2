@@ -9,3 +9,10 @@ php artisan ui react --auth
 npm install 
 
 npm run dev
+
+create a new user 
+testUser1@test.com
+password
+
+
+php artisan migrate

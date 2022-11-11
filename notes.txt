@@ -1,0 +1,11 @@
+php C:\xampp\htdocs\Laravel\composer.phar require laravel/ui
+
+INSTALLING VUE
+php artisan ui vue --auth 
+
+REACT 
+php artisan ui react --auth
+
+npm install 
+
+npm run dev

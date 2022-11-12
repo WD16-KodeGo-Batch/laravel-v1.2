@@ -35,11 +35,11 @@
                 <div><a>Website Url</a></div>
         </div>
         <div class="row">
-            <div class="col-4"><img class="w-100" src="https://source.unsplash.com/1600x900/?computers
+            <div class="col-4"><img class="w-100 pt-5" src="https://source.unsplash.com/1600x900/?computers
 " alt=""></div>
-            <div class="col-4"><img class="w-100" src="https://source.unsplash.com/1600x900/?landscape
+            <div class="col-4"><img class="w-100 pt-5" src="https://source.unsplash.com/1600x900/?landscape
 " alt=""></div>
-            <div class="col-4"><img class="w-100" src="https://source.unsplash.com/1600x900/?dogs
+            <div class="col-4"><img class="w-100 pt-5" src="https://source.unsplash.com/1600x900/?dogs
 " alt=""></div>
             
         </div>

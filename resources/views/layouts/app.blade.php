@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                 <div><img src="/svg/rbslgamer4.svg"></div>
+                 <div><img src="/svg/rbslgamer4.svg" style="max-height:100px"></div>
                  <div>RBSLPhotogram</div>    
                 
                 </a>

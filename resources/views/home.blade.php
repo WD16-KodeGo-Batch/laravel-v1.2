@@ -20,9 +20,16 @@
         </div>
     </div> -->
     <div class="row">
-        <div class="col-3">
-            <img src="https://raw.githubusercontent.com/WD16-KodeGo-Batch/image-sources/main/dog-photo-withApp5-small.png" class="rounded-circle" style="height:200px; width:200px;">
-            <div class="col-9"></div>
+        <div class="col-3 p-5">
+            <img src="/images/ktechGaming.png" class="rounded-circle" style="height:200px; width:200px;">
+        </div>
+        <div class="col-9 pt-5">
+                <div><h1>RBSLGamer</h1></div>
+                <div class="d-flex">
+                    <div style="padding-right: 4%;"><strong>100</strong> posts</div>
+                    <div style="padding-right: 4%;"><strong>20k</strong> followers</div>
+                    <div style="padding-right: 4%;"><strong>200</strong> following</div>
+                </div>
         </div>
     </div>
 </div>
